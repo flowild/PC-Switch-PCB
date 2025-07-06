@@ -816,6 +816,17 @@
 			(uuid "93901fa6-6f9d-41e2-b68f-af09fcf15b92")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/cad files/ESP32-C3_SUPERMINI_TH.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 		(layer "F.Cu")
@@ -1671,7 +1682,19 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Horizontal.step"
+			(hide yes)
+			(offset
+				(xyz 2.54 -10.16 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -2482,6 +2505,17 @@
 			(uuid "a7900926-f6c0-4c17-ac19-53e304c6c653")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/cad files/1-1415390-1.stp"
+			(offset
+				(xyz 9 -3.75 -1.65)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(gr_rect
 		(start 113.85 73.7)
